@@ -52,8 +52,7 @@ from shapley import evolve_ours_sampling
 evolve_ours_sampling()
 ```
 
-## Demo
-You can try in [[Hugging Face](https://huggingface.co/spaces/DDydkyd/INTER)] (releasing). 
+
 
 ## Examples
 
